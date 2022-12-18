@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+l = int(input())
+N = int(input())
+length = (a * (N+1)) + (l * 2) + (N * b)
+print(length)
